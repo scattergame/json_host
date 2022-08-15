@@ -1,1 +1,1 @@
-[{"memory":10,"id":1,"model":"RTX 3060","description":"none","maker":"Nvidia"},{"memory":8,"id":2,"model":"RTX 3070","description":"none","maker":"Nvidia"}]
+[{"id":1,"maker":"Nvidia","model":"RTX 3060","memory":12,"image":"none"},{"id":2,"maker":"Nvidia","model":"RTX 3060 Ti","memory":8,"image":"none"},{"id":3,"maker":"Nvidia","model":"RTX 3070","memory":8,"image":"none"},{"id":4,"maker":"Nvidia","model":"RTX 3070 Ti","memory":8,"image":"none"}]
